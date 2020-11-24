@@ -18,9 +18,9 @@
 
 ## 1. Datasets 
 ### 1) Real Games 
-PDM-RG20r1a3b4.csv (By CPU frequency configurations, total 20 apps including the training real games)
-PDM-RG20r2b3a4.csv (By GPU frequency configurations, total 20 apps including the training real games)
+PDM-RG20r1a3b4.csv (By CPU frequency configurations, total 20 apps including the training real games) <\br>
+PDM-RG20r2b3a4.csv (By GPU frequency configurations, total 20 apps including the training real games)  <\br>
 
 ### 2) Real Games + GPU-microbenchmarks 
-PDM-r1a3b4.csv (By CPU frequency configurations, total 92 apps including the training real games and micro-benchmarks)
-PDM-r2b3a4.csv (By GPU frequency configurations, total 92 apps including the training real games and micro-benchmarks)
+PDM-r1a3b4.csv (By CPU frequency configurations, total 92 apps including the training real games and micro-benchmarks) <\br>
+PDM-r2b3a4.csv (By GPU frequency configurations, total 92 apps including the training real games and micro-benchmarks) <\br>
