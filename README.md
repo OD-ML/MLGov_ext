@@ -5,12 +5,35 @@
 ### 1) Real Games 
 (Downloadable from Android Play Store or installation using apk files (2016), but some applications might not be available now (Nov. 2020)). 
 ####  Training apps  
- 'Dhoom 3', 'avp_evolution', 'Godzilla', 'Bike Rider', '3dmark_extream', 'Modern Combat', 'D-Day', '3dmark_normal', 
- 'Call of Duty', 'Jet Ski 2013', 'Turbo FAST','q3zombie_map4', 'Edge of Tomorrow',  
+ '[Dhoom 3](https://play.google.com/store/apps/details?id=com.ninetyninegames.dhoomthreejetspeed&hl=en&gl=US)', 
+ '[avp_evolution](https://en.apkshub.com/app/com.fde.avpevolution)', 
+ '[Godzilla](https://godzilla-smash3.en.uptodown.com/android)', 
+ '[Bike Rider](https://bike-racing-moto-rider-stunts.en.uptodown.com/android)', 
+ '[3dmark_extream](https://3dmark.en.uptodown.com/android)', 
+ '[Modern Combat](https://www.hiapphere.com/app/com.gameloft.android.ANMP.GloftM3HM)', 
+ '[D-Day](https://frontline-commando-d-day.en.uptodown.com/android)', 
+ '[3dmark_normal](https://apkpure.com/3dmark-the-gamer-s-benchmark/com.futuremark.dmandroid.application)', 
+ '[Call of Duty](https://call-of-duty-heroes.en.uptodown.com/android)',
+ '[Jet Ski 2013](https://jet-ski-free-game.en.uptodown.com/android)', 
+ '[Turbo FAST](https://apkpure.com/turbo-fast/com.pikpok.turbo)',
+ '[q3zombie_map4](https://q3-zombie.en.uptodown.com/android/download)', 
+ '[Edge of Tomorrow](https://edge-of-tomorrow-game.en.uptodown.com/android)',  
                
 ####  Test apps  
-'anormaly2_low', 'dream bike', 'Action Bike', 'Deerhunter14', 'Citadel', 'Herculous', 'anormaly2_normal', 'anormaly2_high', 
-'q3zombie_map1', '300', 'GPU Bench', 'Real Driving', 'Robocop',  'q3zombie_map2'
+'[anomaly2_low](https://apkpure.com/anomaly-2-benchmark/com.elevenbitstudios.anomaly2Benchmark)', 
+'[dream bike](https://dream-bike.en.uptodown.com/android)', 
+'[Action Bike](https://action-bike.en.uptodown.com/android)', 
+'[Deerhunter14](https://deer-hunter-2014.en.uptodown.com/android)', 
+'[Citadel](https://epic-citadel.en.uptodown.com/android)', 
+'[Herculous](https://hercules-the-official-game.en.uptodown.com/android)', 
+'[anormaly2_normal](https://apkpure.com/anomaly-2-benchmark/com.elevenbitstudios.anomaly2Benchmark)', 
+'[anomaly2_high](https://apkpure.com/anomaly-2-benchmark/com.elevenbitstudios.anomaly2Benchmark)', 
+'[q3zombie_map1](https://q3-zombie.en.uptodown.com/android/download)', 
+'[300](https://300-seize-your-glory.en.uptodown.com/android)', 
+'[GPU Bench](http://gpubench.apk.black/)', 
+'[Real Driving](https://real-driving-3d.en.uptodown.com/android)', 
+'[Robocop](https://robocop.en.uptodown.com/android)',  
+'[q3zombie_map2](https://q3-zombie.en.uptodown.com/android/download)'
 
 ### 2) GPU-microbenchmarks [1][2]
 ####  &nbsp;&nbsp;&nbsp;&nbsp; Mono-benchmarks (Mb): microbench2.apk
