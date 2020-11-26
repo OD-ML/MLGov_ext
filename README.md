@@ -3,9 +3,9 @@
 ## 1. Gaming Applications/benchmarks
 
 ### 1) Real Games 
-(Downloadable from Android Play Store or/and installation using downloaded apk files). 
+(Downloadable from apk repositories and installable, but some applications should be installed directly from Google Play Store). 
 ####  Training apps  
- '[Dhoom 3](https://play.google.com/store/apps/details?id=com.ninetyninegames.dhoomthreejetspeed&hl=en&gl=US)', 
+ '[Dhoom 3](https://apkpure.com/dhoom-3-jet-speed/com.ninetyninegames.dhoomthreejetspeed)', 
  '[avp_evolution](https://en.apkshub.com/app/com.fde.avpevolution)', 
  '[Godzilla](https://godzilla-smash3.en.uptodown.com/android)', 
  '[Bike Rider](https://bike-racing-moto-rider-stunts.en.uptodown.com/android)', 
@@ -41,9 +41,9 @@
 
 
 ## 2. DataSets
-(Using the Real Games and GPU-microbenchmarks) 
-####  PDM-r1a3b4.csv (By CPU frequency configurations, total 92 apps including the training real games and micro-benchmarks) <br />
-####  PDM-r2b3a4.csv (By GPU frequency configurations, total 92 apps including the training real games and micro-benchmarks) <br />
+(Using the Real Games and GPU-microbenchmarks, total 92 apps including the training real games and micro-benchmarks) 
+####  PDM-r1a3b4.csv (By 9-level CPU frequency configurations) <br />
+####  PDM-r2b3a4.csv (By 6-level GPU frequency configurations) <br />
 
 #### References
 [1] J-G. Park, C-Y. Hsieh, N. Dutt, and S-S. Lim, "Quality-aware Mobile Graphics Workload Characterization for Energy- 
