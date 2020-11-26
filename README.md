@@ -3,7 +3,7 @@
 ## 1. Gaming Applications/benchmarks
 
 ### 1) Real Games 
-(Downloadable from Android Play Store or installation using apk files, but some applications might not be available (Nov. 2020)). 
+(Downloadable from Android Play Store or installation using apk files (2016), but some applications might not be available now (Nov. 2020)). 
 ####  Training apps  
  'Dhoom 3', 'avp_evolution', 'Godzilla', 'Bike Rider', '3dmark_extream', 'Modern Combat', 'D-Day', '3dmark_normal', 
  'Call of Duty', 'Jet Ski 2013', 'Turbo FAST','q3zombie_map4', 'Edge of Tomorrow',  
@@ -16,11 +16,6 @@
 ####  &nbsp;&nbsp;&nbsp;&nbsp; Mono-benchmarks (Mb): microbench2.apk
 ####  &nbsp;&nbsp;&nbsp;&nbsp; RotCC-benchmarks: microbench3.apk
 
-## 1. Datasets 
-### 1) Real Games 
-PDM-RG20r1a3b4.csv (By CPU frequency configurations, total 20 apps including the training real games) <br />
-PDM-RG20r2b3a4.csv (By GPU frequency configurations, total 20 apps including the training real games)  <br />
-
-### 2) Real Games + GPU-microbenchmarks 
+##  Real Games + GPU-microbenchmarks 
 PDM-r1a3b4.csv (By CPU frequency configurations, total 92 apps including the training real games and micro-benchmarks) <br />
 PDM-r2b3a4.csv (By GPU frequency configurations, total 92 apps including the training real games and micro-benchmarks) <br />
