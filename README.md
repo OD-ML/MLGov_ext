@@ -13,8 +13,8 @@
 'q3zombie_map1', '300', 'GPU Bench', 'Real Driving', 'Robocop',  'q3zombie_map2'
 
 ### 2) GPU-microbenchmarks 
-####  &nbsp;&nbsp;&nbsp;&nbsp; Mono-benchmarks (Mb): microbenchmark1.apk
-####  &nbsp;&nbsp;&nbsp;&nbsp; RotCC-benchmarks: microbenchmark1.apk
+####  &nbsp;&nbsp;&nbsp;&nbsp; Mono-benchmarks (Mb): microbench2.apk
+####  &nbsp;&nbsp;&nbsp;&nbsp; RotCC-benchmarks: microbench3.apk
 
 ## 1. Datasets 
 ### 1) Real Games 
