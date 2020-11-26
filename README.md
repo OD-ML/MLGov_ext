@@ -39,9 +39,11 @@
 ####  &nbsp;&nbsp;&nbsp;&nbsp; Mono-benchmarks (Mb): microbench2.apk
 ####  &nbsp;&nbsp;&nbsp;&nbsp; RotCC-benchmarks: microbench3.apk
 
-##  Real Games + GPU-microbenchmarks 
-PDM-r1a3b4.csv (By CPU frequency configurations, total 92 apps including the training real games and micro-benchmarks) <br />
-PDM-r2b3a4.csv (By GPU frequency configurations, total 92 apps including the training real games and micro-benchmarks) <br />
+
+## 2. DataSets
+(Using the Real Games and GPU-microbenchmarks) 
+####  PDM-r1a3b4.csv (By CPU frequency configurations, total 92 apps including the training real games and micro-benchmarks) <br />
+####  PDM-r2b3a4.csv (By GPU frequency configurations, total 92 apps including the training real games and micro-benchmarks) <br />
 
 #### References
 [1] J-G. Park, C-Y. Hsieh, N. Dutt, and S-S. Lim, "Quality-aware Mobile Graphics Workload Characterization for Energy- 
