@@ -3,7 +3,7 @@
 ## 1. Gaming Applications/benchmarks
 
 ### 1) Real Games 
-(Downloadable from Android Play Store or installation using apk files, but some applications are not available now (Nov. 2020)). 
+(Downloadable from Android Play Store or installation using apk files, but some applications might not be available (Nov. 2020)). 
 ####  Training apps  
  'Dhoom 3', 'avp_evolution', 'Godzilla', 'Bike Rider', '3dmark_extream', 'Modern Combat', 'D-Day', '3dmark_normal', 
  'Call of Duty', 'Jet Ski 2013', 'Turbo FAST','q3zombie_map4', 'Edge of Tomorrow',  
