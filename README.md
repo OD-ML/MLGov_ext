@@ -3,7 +3,7 @@
 ## 1. Gaming Applications/benchmarks
 
 ### 1) Real Games 
-(Downloadable from Android Play Store or installation using apk files (2016), but some applications might not be available now (Nov. 2020)). 
+(Downloadable from Android Play Store or/and installation using downloaded apk files). 
 ####  Training apps  
  '[Dhoom 3](https://play.google.com/store/apps/details?id=com.ninetyninegames.dhoomthreejetspeed&hl=en&gl=US)', 
  '[avp_evolution](https://en.apkshub.com/app/com.fde.avpevolution)', 
