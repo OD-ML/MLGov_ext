@@ -38,7 +38,7 @@
 '[q3zombie_map2](https://q3-zombie.en.uptodown.com/android/download)'
 
 ### 2) GPU-microbenchmarks 
-RotCC_/Mono_/MbXYZ:  X, Y and Z stand for CPU, GPU and Memory workloads respectively [1][2]; and Mono_XYZ is the same with the Mb_XY0. <br />
+RotCC_/Mono_/MbXYZ:  X, Y and Z stand for CPU, GPU and Memory workloads respectively [1][2]; and MbXYZ benchmarks are variations of the Mono micro-benchmarks by adding memory workload (Z), in addition to combinations of CPU and GPU workloads (X and Y) <br />
 ####  &nbsp;&nbsp;&nbsp;&nbsp; Mono-benchmarks (Mb): microbench2.apk
 ####  &nbsp;&nbsp;&nbsp;&nbsp; RotCC-benchmarks: microbench3.apk
 
@@ -53,7 +53,7 @@ Mono_000, Mono_200, Mono_300, Mono_330, Mono_430, Mono_400, Mono_500, Mono_420, 
 Mb102, Mb111, Mb112, Mb101, Mb103, Mb113 (6 Mb benchmarks) <br /> 
 
 
-## 2. DataSets
+## 2. Android Mobile Gaming Workloads Datasets
 (Using the Real Games and GPU-microbenchmarks, total 92 apps including the training real games and micro-benchmarks) 
 ####  PDM-r1a3b4.csv (By 9-level CPU frequency configurations) <br />
 ####  PDM-r2b3a4.csv (By 6-level GPU frequency configurations) <br />
