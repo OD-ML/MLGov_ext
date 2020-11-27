@@ -38,7 +38,7 @@
 '[q3zombie_map2](https://q3-zombie.en.uptodown.com/android/download)'
 
 ### 2) GPU-microbenchmarks 
-RotCC_/Mono_/Mb_XYZ:  X, Y and Z stand for CPU, GPU and Memory workloads respectively [1][2]; and Mono_XYZ is the same with the Mb_XY0. <br />
+RotCC_/Mono_/MbXYZ:  X, Y and Z stand for CPU, GPU and Memory workloads respectively [1][2]; and Mono_XYZ is the same with the Mb_XY0. <br />
 ####  &nbsp;&nbsp;&nbsp;&nbsp; Mono-benchmarks (Mb): microbench2.apk
 ####  &nbsp;&nbsp;&nbsp;&nbsp; RotCC-benchmarks: microbench3.apk
 
@@ -50,7 +50,7 @@ RotCC_500, RotCC_510, RotCC_300 (23 RotCC benchmarks) <br />
 Mono_000, Mono_200, Mono_300, Mono_330, Mono_430, Mono_400, Mono_500, Mono_420, Mono_530 (9 Mono benchmarks) <br />
 
 ####  Test benchmarks    
-Mb_102, Mb_111, Mb_112, Mb101, Mb103, Mb113 (6 Mb benchmarks) <br /> 
+Mb102, Mb111, Mb112, Mb101, Mb103, Mb113 (6 Mb benchmarks) <br /> 
 
 
 ## 2. DataSets
