@@ -1,10 +1,12 @@
 # MLGov_ext gaming applications (benchmarks) and Datasets
 
 ## 1. Gaming Applications/benchmarks
+####  A 45-app training set: 13 real-games + 13 RotCC + 9 Mono micro-benchmarks
+####  A 20-app training set: 14 real-games + 6 Mono benchmarks
 
 ### 1) Real Games 
 (Downloadable from apk repositories and installable, but some applications should be installed directly from Google Play Store). 
-####  Training apps  
+####  Training applications  (13) 
  '[Dhoom 3](https://apkpure.com/dhoom-3-jet-speed/com.ninetyninegames.dhoomthreejetspeed)', 
  '[avp_evolution](https://en.apkshub.com/app/com.fde.avpevolution)', 
  '[Godzilla](https://godzilla-smash3.en.uptodown.com/android)', 
@@ -17,9 +19,9 @@
  '[Jet Ski 2013](https://jet-ski-free-game.en.uptodown.com/android)', 
  '[Turbo FAST](https://apkpure.com/turbo-fast/com.pikpok.turbo)',
  '[q3zombie_map4](https://q3-zombie.en.uptodown.com/android/download)', 
- '[Edge of Tomorrow](https://edge-of-tomorrow-game.en.uptodown.com/android)',  
+ '[Edge of Tomorrow](https://edge-of-tomorrow-game.en.uptodown.com/android)',
                
-####  Test apps  
+####  Test applications (14)
 '[anomaly2_low](https://apkpure.com/anomaly-2-benchmark/com.elevenbitstudios.anomaly2Benchmark)', 
 '[dream bike](https://dream-bike.en.uptodown.com/android)', 
 '[Action Bike](https://action-bike.en.uptodown.com/android)', 
@@ -35,9 +37,20 @@
 '[Robocop](https://robocop.en.uptodown.com/android)',  
 '[q3zombie_map2](https://q3-zombie.en.uptodown.com/android/download)'
 
-### 2) GPU-microbenchmarks [1][2]
+### 2) GPU-microbenchmarks 
+RotCC_/Mono_/Mb_XYZ:  X, Y and Z stand for CPU, GPU and Memory workloads respectively [1][2]; and Mono_XYZ is the same with the Mb_XY0. <br />
 ####  &nbsp;&nbsp;&nbsp;&nbsp; Mono-benchmarks (Mb): microbench2.apk
 ####  &nbsp;&nbsp;&nbsp;&nbsp; RotCC-benchmarks: microbench3.apk
+
+####  Training benchmarks
+RotCC_000, RotCC_340, RotCC_030, RotCC_240, RotCC_040, RotCC_250, RotCC_050, RotCC_010, RotCC_120, RotCC_020, 
+RotCC_130, RotCC_330, RotCC_540, RotCC_450, RotCC_210, RotCC_200, RotCC_310, RotCC_520, RotCC_430, RotCC_550, 
+RotCC_500, RotCC_510, RotCC_300 (23 RotCC benchmarks) <br />
+
+Mono_000, Mono_200, Mono_300, Mono_330, Mono_430, Mono_400, Mono_500, Mono_420, Mono_530 (9 Mono benchmarks) <br />
+
+####  Test benchmarks    
+Mb_102, Mb_111, Mb_112, Mb101, Mb103, Mb113 (6 Mb benchmarks) <br /> 
 
 
 ## 2. DataSets
