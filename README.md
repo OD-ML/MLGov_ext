@@ -57,7 +57,7 @@ Mb102, Mb111, Mb112, Mb101, Mb103, Mb113 (6 Mb benchmarks) <br />
 (Using the Real Games and GPU-microbenchmarks, total 92 apps including the training real games and micro-benchmarks) 
 ####  PDM-r1a3b4.csv (By 9-level CPU frequency configurations) <br />
 ####  PDM-r2b3a4.csv (By 6-level GPU frequency configurations) <br />
-(PDM-RGr1a3b4.csv and PDM-RGr2b3a4.csv: 20 Real Games) <br />
+(PDM-RG20r1a3b4.csv and PDM-RG20r2b3a4.csv: 20 Real Games) <br />
 
 #### References
 [1] J-G. Park, C-Y. Hsieh, N. Dutt, and S-S. Lim, "Quality-aware Mobile Graphics Workload Characterization for Energy- 
