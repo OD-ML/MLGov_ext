@@ -2,7 +2,7 @@
 
 ## 1. Gaming Applications/benchmarks
 ####  A 45-app training set: 13 real-games + 23 RotCC + 9 Mono micro-benchmarks
-####  A 20-app training set: 14 real-games + 6 Mono-benchmarks (Mb)
+####  A 20-app test set: 14 real-games + 6 Mono-benchmarks (Mb)
 
 ### 1) Real Games 
 (Downloadable from apk repositories and installable, but some applications should be installed directly from Google Play Store). 
